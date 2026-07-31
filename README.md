@@ -1,8 +1,7 @@
 # Tecnologia-e-progettazione-per-il-mondo-digitale-e-per-il-web
 Libro di testo per la materia TEPSIT per gli ITI di indirizzo Informatica articolazione Informatica
 
-![Copertina Tecnologie Digitali](https://www.digitaldocet.it/images/tecnologie-digitali/cover-tecnologia-digitale-web.jpg)
-
+<img src="https://www.digitaldocet.it/images/tecnologie-digitali/cover-tecnologia-digitale-web.jpg" alt="Copertina Tecnologie Digitali" width="50%" />
 
 ## Il libro
 "Tecnologie e progettazione di sistemi informatici e di telecomunicazioni" (che abbrevieremo in TEPSIT) è una materia che agisce come cintura di collegamento tra Informatica e Sistemi, composta da argomenti vari ed eterogenei: teoria dell'informazione, sistemi operativi, programmazione concorrente, ingegneria informatica, programmazione di rete. La scelta di quest’opera è quella di presentare contenuti approfonditi, permettendo quindi ai docenti di "personalizzare" il corso in base ai propri gusti, conoscenze specifiche e richieste del territorio. La seconda importante scelta è quella di spostare in questa materia la programmazione web, dando a TEPSIT la connotazione della "materia del web", in modo da permettere l’applicazione pratica degli aspetti di progettazione fin dal primo anno. L'ebook è diviso in cinque moduli principali, a loro volta organizzati in modo gerarchico, per facilitare la navigazione.
